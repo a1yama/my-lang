@@ -9,6 +9,8 @@
 - javascript
 
 ## 独学
+- Python
+- Ruby
 - Unity
 - Android
 - vvvv
